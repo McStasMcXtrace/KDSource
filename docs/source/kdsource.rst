@@ -3,9 +3,6 @@ kdsource python API
 
 .. automodule:: kdsource.__init__
 
-Modules
-=======
-
 
 kdsource.geom module
 --------------------

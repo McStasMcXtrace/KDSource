@@ -1,4 +1,6 @@
-## Installation (Linux):
+# Installation
+
+## Linux
 
 The installation instructions assume this repo has been cloned to a local directory.
 	
@@ -42,3 +44,7 @@ The installation instructions assume this repo has been cloned to a local direct
    $ export PATH=$PATH:/path/to/kdsourceinstall/bin
    ```
    Or add this command to `~/.profile` (and update with `source ~/.profile`).
+
+## Windows
+
+Under development
