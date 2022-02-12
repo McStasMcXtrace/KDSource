@@ -1,4 +1,4 @@
-kdsource python API
+kdsource Python API
 ===================
 
 .. automodule:: kdsource.__init__

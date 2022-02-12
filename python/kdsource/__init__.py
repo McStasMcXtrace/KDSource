@@ -6,7 +6,7 @@ KDSource's are particle sources for Monte Carlo radiation transport
 simulations. The full distribution and documentation can be found in the
 project GitHub page:
 
-    https://github.com/inti-abbate/KDSource
+    https://github.com/KDSource/KDSource
 
 A KDSource object is based on a particle list in MCPL format (see
 https://mctools.github.io/mcpl/), on which a Kernel Density Estimation
