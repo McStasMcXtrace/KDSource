@@ -32,14 +32,7 @@ reference:
 __version__ = "0.1.0"
 __author__ = "inti-abbate"
 
-from . import utils
-from . import kde
-
-from . import geom
+from .kde import bw_silv
 from .geom import Metric, Geometry
 from .plist import PList, convert2mcpl, join2mcpl, savessv, appendssv
 from .kdsource import KDSource, load
-
-from . import tally
-from . import stats
-from . import summary
